@@ -7,7 +7,7 @@
 |GPU|UHD530|
 |网卡|Realtek PCIe GbE Family Controller |
 |声卡|ALC 290|
-|系统|Big Sur 11.13.2|
+|系统|Big Sur 11.14 beta|
 
 ## 问题
 1. 暂时没有定制USB，11.3.2可以正常使用，11.4 beta 无法识别鼠标但可以识别到U盘
